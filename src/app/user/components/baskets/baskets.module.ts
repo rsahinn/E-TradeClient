@@ -48,9 +48,7 @@ dosyası içerisinde web sitesindeki API kısmında bulunan import'u alıp bu mo
 yalnızca html kodları değil aynı zamanda css dosyalarını da kopyalamamız gerekir. Css kodları da ilgili componentin
 css dosyası içine yapıştırılmalıdır.
 
-Material dosyasını internetten çektiğimiz zaman importt dosyasının ilgili componentin modül dosyasında olması 
+Material dosyasını internetten çektiğimiz zaman import dosyasının ilgili componentin modül dosyasında olması 
 burada kritik bir noktadır. 
-
-
 
 */
